@@ -1,5 +1,4 @@
 from dataclasses import field
-from tkinter import Widget
 from turtle import title
 from django import forms
 from .models import Task
